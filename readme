@@ -1,1 +1,38 @@
-r
+### Hi there 👋
+
+## My Activity
+<img src="https://github-readme-stats.vercel.app/api?username=karimahmadi99&show_icons=true&theme=radical" />
+
+## My Projects Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimahmadi99&Donut=true)
+
+_ This *text* is bold
+_ This __text__ is bold
+_ This ***text*** is bold
+_ This ___text___ is bold
+
+---
+> my name is `amir`
+>> im form `iran`
+
+---
+```diff
+- print("hello")
+
++ print("amir")
+```
+---
+
+<ul>
+  <li>python</li>
+  <li>django</li>
+  <li>html</li>
+  <li>css</li>
+</ul>
+---
+<or>
+  <li>python</li>
+  <li>django</li>
+  <li>html</li>
+  <li>css</li>
+</or>
